@@ -1,0 +1,136 @@
+*{
+    box-sizing: border-box;
+
+}
+
+
+
+/* in text */
+.in{
+    margin-top:22px;
+
+    }
+/* hello text */
+#locicon{
+    padding-top: 26px;
+}
+#hola0{
+    padding-left: 2px;
+line-height: 18px;
+padding-top: 14px;
+}
+#hola{
+  
+    font-size: 16px;
+   
+}
+#hola2{
+font-size: 18px;
+font-weight: 500;
+}
+
+/* Drop menu css */
+#dropmenu{
+    height:45px;
+    margin-left:8px;
+    border-radius: 2px 0px 0px 2px;
+}
+#boxsrc{
+
+    width:800px; /*Give a proper width after complete of upper bar */
+    height:45px;
+    border-radius: 0px;
+    
+
+}
+#btn-looks{
+    height:45px;       
+}
+/* saerch box and button end here */
+/* Flag */
+#flagsup{
+    margin-right:-8px;
+    
+}
+
+/*Hello sign start  */
+    
+
+#sign0{
+line-height: 1;
+padding-top:18px;
+
+}
+#sign1{
+    font-size:14px;
+    font-weight: 400;;
+    
+}
+
+#acc{
+    font: size 14px;
+    font-weight: 600;  
+}
+
+.droparrow{
+    margin-left:5px;
+    margin-top:38px;
+    width: 10px;
+    height:10px;
+    transform: rotate(90deg);
+}
+/* hello sign end here */
+
+
+/* return text here */
+.return{line-height: 1;
+    margin-top:18px;
+    padding-left: 12px;;
+}
+
+#returns{
+font-size: 12px;
+font-weight: 400;
+    
+}
+
+#retro{
+
+    font-size: 18px;
+    font-weight: 600;
+
+
+}
+
+#hov:hover{
+    outline-style: solid ;
+    outline-width: 2px;
+    height: 65px;
+    border-radius: 4px;
+}
+
+/* lower bar CSS */
+
+.lowbar{
+    background-color:rgb(35,47,62);
+}
+
+
+/* my class for  */
+
+.myfontstyle{
+    font-weight: 600;
+
+
+}
+
+.mytext{
+    margin-left:20px;
+    font-weight:600;
+}
+
+.cutomendclass{
+    font-weight:600;
+    margin-left:120px;
+}
+

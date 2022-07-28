@@ -1,0 +1,39 @@
+#logo{
+    width: 100px;
+    max-height: 30%;
+    padding: 5px 0px 0px 5px;
+
+}
+
+#src-icon{
+    background:#F3A847 ;
+    margin-right:100px;
+}
+/* dropdown menu css start */
+.dropdown {
+    background: rgb(160, 160, 160);
+    border-radius: 5px;
+    position: relative;
+    display: inline-block;
+    padding: 5px 0px 5px 5px;
+
+  }
+  
+  .dropdown-content {
+    display: none;
+    color: black;
+    background: white;
+    position: absolute;
+    min-width: 160px;
+    border-radius: 10px;
+  }
+  .dropdown-content p:hover{
+    background: rgb(153, 153, 153);
+    transition-delay: 0.15s;
+
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  /* dropdown menu css end */
